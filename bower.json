@@ -1,0 +1,22 @@
+{
+  "name": "djangoExtendFormset",
+  "main": "djangoExtendFormset.js",
+  "version": "1.0.0",
+  "authors": [
+    "Richard Moch richard.moch@gmail.com"
+  ],
+  "keywords": [
+    "django",
+    "formset"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "homepage": "https://github.com/rmoch/djangoExtendFormset",
+  "description": "jQuery plugin to dynamically extend Django formset by cloning last form and incrementing counters"
+}
